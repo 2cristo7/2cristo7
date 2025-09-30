@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Cristóbal</h1>
+<h1 align="center">Diego Cristóbal Andaluz</h1>
 <h3 align="center">Transformando ideas en aplicaciones móviles modernas y funcionales</h3>
 
 - 🌱 I’m currently learning **Kotlin Multiplatform Mobile**
