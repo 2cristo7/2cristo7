@@ -1,24 +1,14 @@
-# Diego Cristóbal - README
+<h1 align="center">Hi 👋, I'm Diego Cristóbal</h1>
+<h3 align="center">Transformando ideas en aplicaciones móviles modernas y funcionales</h3>
 
-¡Hola! 👋 Soy Diego Cristóbal, estudiante de Ingeniería Informática en la Universidad de Santiago de Compostela (USC). Actualmente, estoy muy entusiasmado por formar parte del mundo de la tecnología y la programación, ¡y me encantaría compartir un poco sobre mí contigo!
+- 🌱 I’m currently learning **Kotlin Multiplatform Mobile**
 
-## Acerca de mí
+- 📫 How to reach me **diego.cristo27@gmail.com**
 
-- 💻 Actualmente estoy cursando mi carrera en Ingeniería Informática en la USC.
-- 🌱 Me apasiona aprender y explorar nuevas tecnologías, especialmente en el ámbito del desarrollo de software.
-- 🚀 He participado activamente en el Google Developers Group (GDG), donde he tenido la oportunidad de colaborar en diversos proyectos y eventos relacionados con la tecnología.
-- 🔍 Mis áreas de especialización incluyen los lenguajes de programación C y Java, aunque también tengo experiencia en SQL y R, y estoy dispuesto a ampliar mis conocimientos en Python, C++, y MATLAB.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/diego-cristobal-andaluz-3a5580304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-cristobal-andaluz-3a5580304/" height="30" width="40" /></a>
+</p>
 
-## Mis habilidades
-
-- **Lenguajes de Programación:** C, Java, SQL, R.
-- **Conocimientos Básicos:** Python, C++, MATLAB.
-- **Herramientas y Tecnologías:** IntelliJ IDEA, CLion, NetBeans, DBeaver.
-
-## Contacto
-
-¡Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje! No dudes en contactarme a través de mis redes sociales:
-
-- 📧 Correo Electrónico: diego.cristo27@gmail.com
-- 💼 LinkedIn: [Diego Cristóbal](https://www.linkedin.com/in/diegocristobal/)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
