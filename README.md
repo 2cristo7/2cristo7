@@ -3,11 +3,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="mailto:diego.cristo27@gmail.com" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail: diego.cristo27@gmail.com" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/diego-cristobal-andaluz-3a5580304/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: diego-cristobal-andaluz" height="30" width="40" />
-</a>
-<a href="mailto:diego.cristo27@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail: diego.cristo27@gmail.com" height="30" width="40" />
 </a>
 </p>
 
